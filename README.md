@@ -5,18 +5,20 @@ Demonstration video links are as follows: 
 Diabetes: https://drive.google.com/file/d/1GERIHMNKS_8lS5LhTgoiEp7tZkaNUWBI/view?usp=drive_link
 Red Wine Quality: https://drive.google.com/file/d/17oj9_Aqz1Qv6c615wDm-3wkhfGtf--Az/view?usp=drive_link
 Task 2: Low Code ML The task was to learn how pycaret can be used to do low code ML and make different types of models. Using Pycaret I have implemented 
-Binary Classification
-Multiclass Classification 
-Regression 
-Clustering 
-Time Series Forecasting - Univariate without Exogenous Variables
-Time Series Forecasting - Univariate with Exogenous Variables
+Binary Classification:
+Multiclass Classification: 
+Regression :
+Clustering :
+Anomaly Detection :
+Time Series Forecasting - Univariate without Exogenous Variables:
+Time Series Forecasting - Univariate with Exogenous Variables:
  
 Datasets used for this task: 
 Binary Classification: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 Multiclass Classification: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
 Regression : https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
 Clustering : https://archive.ics.uci.edu/dataset/292/wholesale+customers
+Anomaly Detection: https://www.kaggle.com/datasets/shayanfazeli/heartbeat
 Time Series Forecasting - Univariate without Exogenous Variables: https://www.kaggle.com/datasets/robervalt/sunspots
 Time Series Forecasting - Univariate with Exogenous Variables: https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset  
 
